@@ -16,6 +16,7 @@ public class KrestiNuli {
 
     public static void main(String[] args) {
         initMap();
+
         printMap();
         while (true) {
             humanTurn();
